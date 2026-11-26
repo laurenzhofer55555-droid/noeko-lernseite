@@ -125,7 +125,7 @@ window.KAPITEL=[
    "Wann lohnt sich eine Anlage mit hohen Fixkosten?"
   ],
   "pdf": null,
-  "audio": null
+  "audio": "audio/vl06.m4a"
  },
  {
   "id": "vl07",
@@ -146,7 +146,7 @@ window.KAPITEL=[
    "Warum ist der ökonomische Gewinn im langfristigen Gleichgewicht null, obwohl Firmen bestehen bleiben?"
   ],
   "pdf": null,
-  "audio": null
+  "audio": "audio/vl07.m4a"
  },
  {
   "id": "vl08",
