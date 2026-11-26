@@ -62,7 +62,7 @@ window.KAPITEL=[
    "Ein Café macht 50.000 Euro buchhalterischen Gewinn, der Inhaber könnte woanders 60.000 Euro verdienen. Wie hoch ist der ökonomische Gewinn?"
   ],
   "pdf": null,
-  "audio": null
+  "audio": "audio/vl03.m4a"
  },
  {
   "id": "vl04",
@@ -83,7 +83,7 @@ window.KAPITEL=[
    "Warum ist es für die Steuerlast egal, ob Käufer oder Verkäufer die Steuer abführen?"
   ],
   "pdf": null,
-  "audio": null
+  "audio": "audio/vl04.m4a"
  },
  {
   "id": "vl05",
@@ -104,7 +104,7 @@ window.KAPITEL=[
    "Erkläre die vier Funktionen des Marktes in eigenen Worten."
   ],
   "pdf": null,
-  "audio": null
+  "audio": "audio/vl05.m4a"
  },
  {
   "id": "vl06",
