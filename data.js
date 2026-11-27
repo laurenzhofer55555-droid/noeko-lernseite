@@ -167,7 +167,7 @@ window.KAPITEL=[
    "Warum können sich Indifferenzkurven nicht schneiden?"
   ],
   "pdf": null,
-  "audio": null
+  "audio": "audio/vl08.m4a"
  },
  {
   "id": "vl09",
@@ -188,7 +188,7 @@ window.KAPITEL=[
    "Warum wählen zwei Personen mit gleichem Budget verschiedene Bündel?"
   ],
   "pdf": null,
-  "audio": null
+  "audio": "audio/vl09.m4a"
  },
  {
   "id": "vl10",
@@ -209,7 +209,7 @@ window.KAPITEL=[
    "Wann biegt die Arbeitsangebotskurve nach hinten?"
   ],
   "pdf": null,
-  "audio": null
+  "audio": "audio/vl10.m4a"
  },
  {
   "id": "vl11",
